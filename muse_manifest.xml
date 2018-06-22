@@ -1,0 +1,972 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="webandre.com" resolutions="1x" timestamp="1529644265400">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_maestra-portafolio-y-otros.css" crc="532125500" ref="sorbetillos:otros:provinciano:sagadan:hotdrink:portafolio"/>
+    <file name="nomq_preview_master_maestra-portafolio-y-otros.css" crc="3955035837" ref="sorbetillos:otros:provinciano:sagadan:hotdrink:portafolio"/>
+    <file name="master_a-p_g_-maestra.css" crc="4282533966" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="index"/>
+    <file name="sorbetillos.css" crc="4290034643" ref="sorbetillos"/>
+    <file name="nomq_sorbetillos.css" crc="3909072324" ref="sorbetillos"/>
+    <file name="index.css" crc="107964103" ref="index"/>
+    <file name="nomq_index.css" crc="439265752" ref="index"/>
+    <file name="otros.css" crc="360711562" ref="otros"/>
+    <file name="nomq_otros.css" crc="4023013514" ref="otros"/>
+    <file name="provinciano.css" crc="3903328846" ref="provinciano"/>
+    <file name="nomq_provinciano.css" crc="407201755" ref="provinciano"/>
+    <file name="sagadan.css" crc="4000209286" ref="sagadan"/>
+    <file name="nomq_sagadan.css" crc="3935641039" ref="sagadan"/>
+    <file name="hotdrink.css" crc="331616535" ref="hotdrink"/>
+    <file name="nomq_hotdrink.css" crc="4217960910" ref="hotdrink"/>
+    <file name="portafolio.css" crc="4292753630" ref="portafolio"/>
+    <file name="nomq_portafolio.css" crc="4119016296" ref="portafolio"/>
+  </folder>
+  <folder name="assets">
+    <file name="hoja-de-vida-andrea-salazar.pdf" crc="270251410" seo="true" mt="1529605600000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="museutils.js" crc="3803043152" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="webpro.js" crc="242022427" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="require.js" crc="4157109226" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+  </folder>
+  <folder name="images">
+    <file name="fodo header.jpg" crc="77413048" ref="index:portafolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="btn-f-n_1.svg" crc="298415993" ref="index:portafolio"/>
+    <file name="btn-f-n_1_poster_u7966.png" crc="4081622569" ref="index:portafolio"/>
+    <file name="btn-f-h_1.svg" crc="3882087662" ref="index:portafolio"/>
+    <file name="btn-f-h_1_poster_u8006.png" crc="3811007697" ref="index:portafolio"/>
+    <file name="btn-i-n_1.svg" crc="70855626" ref="index:portafolio"/>
+    <file name="btn-i-n_1_poster_u7974.png" crc="3954180947" ref="index:portafolio"/>
+    <file name="btn-i-h_1.svg" crc="4289963488" ref="index:portafolio"/>
+    <file name="btn-i-h_1_poster_u7998.png" crc="418825411" ref="index:portafolio"/>
+    <file name="btn-w-n_1.svg" crc="4152503463" ref="index:portafolio"/>
+    <file name="btn-w-n_1_poster_u7982.png" crc="4074904344" ref="index:portafolio"/>
+    <file name="btn-w-h_1.svg" crc="4001421590" ref="index:portafolio"/>
+    <file name="btn-w-h_1_poster_u7990.png" crc="69867885" ref="index:portafolio"/>
+    <file name="img-logo-header-u344.png" crc="120669106" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros"/>
+    <file name="img-foto.png" crc="37901079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titulo conoceme.png" crc="4038036176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btn-curriculum-n_1.svg" crc="4142712681" ref="index"/>
+    <file name="btn-curriculum-n_1_poster_u8871.png" crc="59548097" ref="index"/>
+    <file name="btn-curriculum-n.svg" crc="4023169627" ref="index"/>
+    <file name="btn-curriculum-n_poster_u8879.png" crc="4022344868" ref="index"/>
+    <file name="bolso provinciano-u1686-fr.jpg" crc="36522948" ref="index"/>
+    <file name="rotulo sangadan-u1689-fr.jpg" crc="21737894" ref="index"/>
+    <file name="botella hot drinks-u1692-fr.jpg" crc="481931387" ref="index"/>
+    <file name="papeleria sagadan-u1698-fr.jpg" crc="247841281" ref="index"/>
+    <file name="btn-vermas-n.svg" crc="4088487006" ref="index"/>
+    <file name="btn-vermas-n_poster_u8887.png" crc="275159229" ref="index"/>
+    <file name="btn-vermas-h.svg" crc="3963754314" ref="index"/>
+    <file name="btn-vermas-h_poster_u8895.png" crc="3985801616" ref="index"/>
+    <file name="caja sorbetillos-u1695-fr.jpg" crc="14041951" ref="index"/>
+    <file name="bolsa papel sagadan-u1701-fr.jpg" crc="3772505397" ref="index"/>
+    <file name="img-bg-portafolio.png" crc="3960980433" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1735-4.png" crc="336081975" ref="index"/>
+    <file name="img-hab-foto.svg" crc="4018162784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-hab-foto_poster_.png" crc="4065715090" ref="index"/>
+    <file name="img-hab-editorial.svg" crc="3844845575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-hab-editorial_poster_.png" crc="3835576884" ref="index"/>
+    <file name="img-hab-branding.svg" crc="128223901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-hab-branding_poster_.png" crc="4209955666" ref="index"/>
+    <file name="img-hab-diseno.svg" crc="4198534497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-hab-diseno_poster_.png" crc="4247855026" ref="index"/>
+    <file name="icon-ps.svg" crc="4162245065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-ps_poster_.png" crc="359894162" ref="index"/>
+    <file name="icon-ai.svg" crc="443872581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-ai_poster_.png" crc="3899754805" ref="index"/>
+    <file name="icon-id.svg" crc="4065519012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-id_poster_.png" crc="333405941" ref="index"/>
+    <file name="icon-mu.svg" crc="3958366071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-mu_poster_.png" crc="4249406795" ref="index"/>
+    <file name="icon-xd.svg" crc="200297682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-xd_poster_.png" crc="526997335" ref="index"/>
+    <file name="icon-pr.svg" crc="3889799296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-pr_poster_.png" crc="4284633920" ref="index"/>
+    <file name="icon-unity.svg" crc="77893176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-unity_poster_.png" crc="3843285082" ref="index"/>
+    <file name="icon-office.svg" crc="50686192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-office_poster_.png" crc="294649817" ref="index"/>
+    <file name="icon-3d.svg" crc="3921840037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-3d_poster_.png" crc="35864606" ref="index"/>
+    <file name="img-bg-hab.png" crc="241549714" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1767-4.png" crc="282641651" ref="index"/>
+    <file name="img-enviar.png" crc="3809236074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-email.svg" crc="64990382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-email_poster_.png" crc="25707643" ref="index"/>
+    <file name="icon-ubicacion.svg" crc="487961997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-ubicacion_poster_.png" crc="257052098" ref="index"/>
+    <file name="icon-telefono.svg" crc="204333801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-telefono_poster_.png" crc="308125630" ref="index"/>
+    <file name="img-bg-contactame.png" crc="4293016887" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titulo-contacto.png" crc="141532548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-logo-header.png" crc="100898316" seo="true" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros">
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+    </file>
+    <file name="icon-logo-blanco.svg" crc="204583715" seo="true" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros">
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+    </file>
+    <file name="icon-logo-blanco_poster_.png" crc="3816568605" ref="index:portafolio"/>
+    <file name="btn-flecha.svg" crc="3882853876" seo="true" ref="index:portafolio:sagadan:provinciano:hotdrink:sorbetillos:otros">
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+    </file>
+    <file name="btn-flecha_poster_.png" crc="3772532075" ref="index:portafolio"/>
+    <file name="img-logo-header-u3442.png" crc="120669106" ref="index"/>
+    <file name="u1735-42.png" crc="336081975" ref="index"/>
+    <file name="u1767-42.png" crc="282641651" ref="index"/>
+    <file name="img-logo-header-u3443.png" crc="4013564189" ref="index"/>
+    <file name="u1735-43.png" crc="336081975" ref="index"/>
+    <file name="u1767-43.png" crc="282641651" ref="index"/>
+    <file name="btn-menu.svg" crc="4160397508" ref="index:portafolio"/>
+    <file name="btn-menu_poster_u2907.png" crc="316149805" ref="index:portafolio"/>
+    <file name="btn-close.svg" crc="268240290" ref="index:portafolio"/>
+    <file name="btn-close_poster_u2915.png" crc="226547597" ref="index:portafolio"/>
+    <file name="img-logo-header-u3444.png" crc="4013564189" ref="index"/>
+    <file name="img-foto333x409.png" crc="115408455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bolso provinciano-u1686-fr2.jpg" crc="3778290726" ref="index"/>
+    <file name="rotulo sangadan-u1689-fr2.jpg" crc="181884016" ref="index"/>
+    <file name="botella hot drinks-u1692-fr2.jpg" crc="4166697364" ref="index"/>
+    <file name="papeleria sagadan-u1698-fr2.jpg" crc="366513528" ref="index"/>
+    <file name="caja sorbetillos-u1695-fr2.jpg" crc="3767704952" ref="index"/>
+    <file name="bolsa papel sagadan-u1701-fr2.jpg" crc="3784461939" ref="index"/>
+    <file name="u1735-44.png" crc="336081975" ref="index"/>
+    <file name="u1767-44.png" crc="282641651" ref="index"/>
+    <file name="img-enviar196x179.png" crc="3809236074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bolso provinciano-u1686-fr3.jpg" crc="4286920567" ref="index"/>
+    <file name="rotulo sangadan-u1689-fr3.jpg" crc="4111293606" ref="index"/>
+    <file name="botella hot drinks-u1692-fr3.jpg" crc="4058652533" ref="index"/>
+    <file name="papeleria sagadan-u1698-fr3.jpg" crc="4057592033" ref="index"/>
+    <file name="caja sorbetillos-u1695-fr3.jpg" crc="167627768" ref="index"/>
+    <file name="bolsa papel sagadan-u1701-fr3.jpg" crc="169312167" ref="index"/>
+    <file name="u1735-45.png" crc="336081975" ref="index"/>
+    <file name="u3369-6.png" crc="455998080" ref="index"/>
+    <file name="img-logo-header-u3445.png" crc="4013564189" ref="index"/>
+    <file name="img-foto321x395.png" crc="4048279051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bolso provinciano-u1686-fr4.jpg" crc="4047370910" ref="index"/>
+    <file name="botella hot drinks-u1692-fr4.jpg" crc="295667671" ref="index"/>
+    <file name="rotulo sangadan-u1689-fr4.jpg" crc="4076594931" ref="index"/>
+    <file name="papeleria sagadan-u1698-fr4.jpg" crc="4033924965" ref="index"/>
+    <file name="caja sorbetillos-u1695-fr4.jpg" crc="4045124347" ref="index"/>
+    <file name="bolsa papel sagadan-u1701-fr4.jpg" crc="4040013063" ref="index"/>
+    <file name="u1735-46.png" crc="336081975" ref="index"/>
+    <file name="u3369-62.png" crc="4288586109" ref="index"/>
+    <file name="rotulo sangadan.jpg" crc="3805369546" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="u18083-4.png" crc="386779982" ref="portafolio"/>
+    <file name="van provinciano.jpg" crc="3799108056" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="u18087-4.png" crc="71134950" ref="portafolio"/>
+    <file name="botella hot drinks.jpg" crc="290290080" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="u18089-4.png" crc="212973686" ref="portafolio"/>
+    <file name="caja sorbetillos.jpg" crc="4257031629" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="u18092-4.png" crc="4160961598" ref="portafolio"/>
+    <file name="u18095-4.png" crc="4079892667" ref="portafolio"/>
+    <file name="rotulo sangadan-u18078-fr.jpg" crc="3806743129" ref="portafolio"/>
+    <file name="u18083-42.png" crc="3887284607" ref="portafolio"/>
+    <file name="van provinciano-u12494-fr.jpg" crc="7834688" ref="portafolio"/>
+    <file name="u18087-42.png" crc="4253951612" ref="portafolio"/>
+    <file name="botella hot drinks-u18080-fr.jpg" crc="439006198" ref="portafolio"/>
+    <file name="u18089-42.png" crc="106199957" ref="portafolio"/>
+    <file name="caja sorbetillos-u18081-fr.jpg" crc="4241897489" ref="portafolio"/>
+    <file name="u18092-42.png" crc="2520609" ref="portafolio"/>
+    <file name="u18095-42.png" crc="331937453" ref="portafolio"/>
+    <file name="rotulo sangadan-u18078-fr2.jpg" crc="4165685025" ref="portafolio"/>
+    <file name="u18083-43.png" crc="4228355061" ref="portafolio"/>
+    <file name="van provinciano-u12494-fr2.jpg" crc="238475058" ref="portafolio"/>
+    <file name="u18087-43.png" crc="301845441" ref="portafolio"/>
+    <file name="botella hot drinks-u18080-fr2.jpg" crc="3932115776" ref="portafolio"/>
+    <file name="u18089-43.png" crc="4276471455" ref="portafolio"/>
+    <file name="caja sorbetillos-u18081-fr2.jpg" crc="3877468808" ref="portafolio"/>
+    <file name="u18092-43.png" crc="4267677392" ref="portafolio"/>
+    <file name="u18095-43.png" crc="3771109342" ref="portafolio"/>
+    <file name="rotulo sangadan-u18078-fr3.jpg" crc="3901121165" ref="portafolio"/>
+    <file name="u18083-44.png" crc="427427565" ref="portafolio"/>
+    <file name="van provinciano-u12494-fr3.jpg" crc="249782752" ref="portafolio"/>
+    <file name="u18087-44.png" crc="353878328" ref="portafolio"/>
+    <file name="botella hot drinks-u18080-fr3.jpg" crc="92931746" ref="portafolio"/>
+    <file name="u18089-44.png" crc="4285253186" ref="portafolio"/>
+    <file name="caja sorbetillos-u18081-fr3.jpg" crc="376944644" ref="portafolio"/>
+    <file name="u18092-44.png" crc="3860232556" ref="portafolio"/>
+    <file name="u18095-44.png" crc="4093201087" ref="portafolio"/>
+    <file name="rotulo sangadan-u18078-fr4.jpg" crc="376595937" ref="portafolio"/>
+    <file name="u18083-45.png" crc="60870616" ref="portafolio"/>
+    <file name="u18087-45.png" crc="4076892693" ref="portafolio"/>
+    <file name="botella hot drinks-u18080-fr4.jpg" crc="4200109113" ref="portafolio:hotdrink"/>
+    <file name="u18089-45.png" crc="4222937663" ref="portafolio"/>
+    <file name="caja sorbetillos-u18081-fr4.jpg" crc="117409364" ref="portafolio"/>
+    <file name="u18092-45.png" crc="4169064866" ref="portafolio"/>
+    <file name="u18095-45.png" crc="3904488359" ref="portafolio"/>
+    <file name="u18083-46.png" crc="4154310026" ref="portafolio"/>
+    <file name="u18087-46.png" crc="3762796368" ref="portafolio"/>
+    <file name="botella hot drinks-u18080-fr5.jpg" crc="3987207589" ref="portafolio:hotdrink"/>
+    <file name="u18089-46.png" crc="4022536418" ref="portafolio"/>
+    <file name="u18092-46.png" crc="19379547" ref="portafolio"/>
+    <file name="u18095-46.png" crc="3783349940" ref="portafolio"/>
+    <file name="rotulo sagadan.jpg" crc="4006318271" ref="sagadan">
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+    </file>
+    <file name="rotulo sangadan-u14893-fr.jpg" crc="4108501637" ref="sagadan"/>
+    <file name="bolsa papel sagadan.jpg" crc="3894712662" ref="sagadan">
+      <caption webpage="sagadan" alt=""/>
+    </file>
+    <file name="papeleria sagadan.jpg" crc="446059967" ref="sagadan:provinciano:hotdrink:sorbetillos">
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+      <caption webpage="hotdrink" alt=""/>
+    </file>
+    <file name="taza sagadan.jpg" crc="29551200" ref="sagadan:provinciano">
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="sagadan" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+    </file>
+    <file name="rotulo sangadan-u14903-fr.jpg" crc="3974785496" ref="sagadan:provinciano:hotdrink:sorbetillos"/>
+    <file name="bolsa papel sagadan-u14905-fr.jpg" crc="528172054" ref="sagadan:provinciano:hotdrink:sorbetillos"/>
+    <file name="rotulo sangadan-u14893-fr2.jpg" crc="3889017659" ref="sagadan"/>
+    <file name="bolsa papel sagadan-u14895-fr.jpg" crc="20382835" ref="sagadan"/>
+    <file name="papeleria sagadan-u14894-fr.jpg" crc="3950461039" ref="sagadan"/>
+    <file name="taza sagadan-u14945-fr.jpg" crc="411509516" ref="sagadan"/>
+    <file name="rotulo sangadan-u14893-fr3.jpg" crc="466051278" ref="sagadan"/>
+    <file name="bolsa papel sagadan-u14895-fr2.jpg" crc="21712718" ref="sagadan"/>
+    <file name="papeleria sagadan-u14894-fr2.jpg" crc="4109936901" ref="sagadan"/>
+    <file name="taza sagadan-u14945-fr2.jpg" crc="300122469" ref="sagadan"/>
+    <file name="rotulo sangadan-u14893-fr4.jpg" crc="466639842" ref="sagadan"/>
+    <file name="bolsa papel sagadan-u14895-fr3.jpg" crc="281248026" ref="sagadan"/>
+    <file name="papeleria sagadan-u14894-fr3.jpg" crc="429876535" ref="sagadan"/>
+    <file name="rotulo sagadan-u14569-fr.jpg" crc="107019760" ref="sagadan"/>
+    <file name="rotulo sangadan-u14893-fr5.jpg" crc="3944702285" ref="sagadan"/>
+    <file name="bolsa papel sagadan-u14895-fr4.jpg" crc="4252074437" ref="sagadan"/>
+    <file name="papeleria sagadan-u14894-fr4.jpg" crc="510880937" ref="sagadan"/>
+    <file name="taza sagadan-u14945-fr3.jpg" crc="4279100567" ref="sagadan"/>
+    <file name="rotulo sagadan-u14569-fr2.jpg" crc="3892770519" ref="sagadan"/>
+    <file name="rotulo sangadan-u14893-fr6.jpg" crc="3956401952" ref="sagadan"/>
+    <file name="bolsa papel sagadan-u14895-fr5.jpg" crc="528172054" ref="sagadan"/>
+    <file name="papeleria sagadan-u14894-fr5.jpg" crc="40752025" ref="sagadan"/>
+    <file name="taza sagadan-u14945-fr4.jpg" crc="507899156" ref="sagadan"/>
+    <file name="rotulo-el-provinciano imprimir.jpg" crc="131644615" ref="provinciano">
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+    </file>
+    <file name="van provinciano-u21624-fr.jpg" crc="4108881299" ref="provinciano"/>
+    <file name="tazaprovinciano.jpg" crc="3809770840" ref="provinciano">
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+    </file>
+    <file name="papeleria provinciano.jpg" crc="3943698225" ref="provinciano">
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+      <caption webpage="provinciano" alt=""/>
+    </file>
+    <file name="bolso provinciano.jpg" crc="3874736482" ref="provinciano">
+      <caption webpage="provinciano" alt=""/>
+    </file>
+    <file name="van provinciano-u21624-fr2.jpg" crc="4259459670" ref="provinciano"/>
+    <file name="bolso provinciano-u21625-fr.jpg" crc="4271403304" ref="provinciano"/>
+    <file name="van provinciano-u21624-fr3.jpg" crc="2773599" ref="provinciano"/>
+    <file name="papeleria provinciano-u21622-fr.jpg" crc="4084239127" ref="provinciano"/>
+    <file name="bolso provinciano-u21625-fr2.jpg" crc="4079500830" ref="provinciano"/>
+    <file name="rotulo-el-provinciano imprimir-u21618-fr.jpg" crc="3926233606" ref="provinciano"/>
+    <file name="van provinciano-u21624-fr4.jpg" crc="349134686" ref="provinciano"/>
+    <file name="bolso provinciano-u21625-fr3.jpg" crc="340377779" ref="provinciano"/>
+    <file name="rotulo-el-provinciano imprimir-u21618-fr2.jpg" crc="340834684" ref="provinciano"/>
+    <file name="van provinciano-u21624-fr5.jpg" crc="268107141" ref="provinciano"/>
+    <file name="bolso provinciano-u21625-fr4.jpg" crc="44856601" ref="provinciano"/>
+    <file name="rotulo-el-provinciano imprimir-u21618-fr3.jpg" crc="26538884" ref="provinciano"/>
+    <file name="van provinciano-u21624-fr6.jpg" crc="3773879628" ref="provinciano"/>
+    <file name="papeleria provinciano-u21622-fr2.jpg" crc="4150994052" ref="provinciano"/>
+    <file name="bolso provinciano-u21625-fr5.jpg" crc="3767920868" ref="provinciano"/>
+    <file name="hotdrink-u25742-fr.jpg" crc="3982153677" ref="hotdrink"/>
+    <file name="botella hot drinks-u21978-fr.jpg" crc="107246455" ref="hotdrink"/>
+    <file name="hotdrink.jpg" crc="4221309965" ref="hotdrink">
+      <caption webpage="hotdrink" alt=""/>
+    </file>
+    <file name="caja hotdrink.jpg" crc="4226912804" ref="hotdrink">
+      <caption webpage="hotdrink" alt=""/>
+    </file>
+    <file name="hotdrink-u25742-fr2.jpg" crc="319532814" ref="hotdrink"/>
+    <file name="botella hot drinks-u21978-fr2.jpg" crc="3855361352" ref="hotdrink"/>
+    <file name="hotdrink-u21982-fr.jpg" crc="3770412905" ref="hotdrink"/>
+    <file name="botella hot drinks-u21978-fr3.jpg" crc="208532092" ref="hotdrink"/>
+    <file name="hotdrink-u21980-fr.jpg" crc="4006252476" ref="hotdrink"/>
+    <file name="caja hotdrink-u21981-fr.jpg" crc="528372732" ref="hotdrink"/>
+    <file name="hotdrink-u21963-fr.jpg" crc="14680784" ref="hotdrink"/>
+    <file name="hotdrink-u21963-fr2.jpg" crc="131674087" ref="hotdrink"/>
+    <file name="botella hot drinks-u21978-fr4.jpg" crc="509601011" ref="hotdrink"/>
+    <file name="hotdrink-u21980-fr2.jpg" crc="526726567" ref="hotdrink"/>
+    <file name="caja hotdrink-u21981-fr2.jpg" crc="4278714605" ref="hotdrink"/>
+    <file name="sorbetillos 1-u25763-fr.jpg" crc="271826111" ref="sorbetillos"/>
+    <file name="funda sorbetillos 2.jpg" crc="4249042358" ref="sorbetillos">
+      <caption webpage="sorbetillos" alt=""/>
+      <caption webpage="sorbetillos" alt=""/>
+    </file>
+    <file name="caja sorbetillos-u22192-fr.jpg" crc="263976480" ref="sorbetillos"/>
+    <file name="stand sorbetillos.jpg" crc="53843939" ref="sorbetillos">
+      <caption webpage="sorbetillos" alt=""/>
+    </file>
+    <file name="sorbetillos 1.jpg" crc="125086072" ref="sorbetillos">
+      <caption webpage="sorbetillos" alt=""/>
+    </file>
+    <file name="funda sorbetillos 2-u22190-fr.jpg" crc="42159417" ref="sorbetillos"/>
+    <file name="caja sorbetillos-u22192-fr2.jpg" crc="3984840309" ref="sorbetillos"/>
+    <file name="stand sorbetillos-u22191-fr.jpg" crc="3941660028" ref="sorbetillos"/>
+    <file name="sorbetillos 1-u22170-fr.jpg" crc="289670634" ref="sorbetillos"/>
+    <file name="funda sorbetillos 2-u22190-fr2.jpg" crc="218134057" ref="sorbetillos"/>
+    <file name="caja sorbetillos-u22192-fr3.jpg" crc="4166858640" ref="sorbetillos"/>
+    <file name="stand sorbetillos-u22191-fr2.jpg" crc="3958416458" ref="sorbetillos"/>
+    <file name="sorbetillos 1-u22174-fr.jpg" crc="4119456713" ref="sorbetillos"/>
+    <file name="funda sorbetillos 2-u22190-fr3.jpg" crc="345070284" ref="sorbetillos"/>
+    <file name="caja sorbetillos-u22192-fr4.jpg" crc="270790030" ref="sorbetillos"/>
+    <file name="stand sorbetillos-u22191-fr3.jpg" crc="149172739" ref="sorbetillos"/>
+    <file name="sorbetillos 1-u22174-fr2.jpg" crc="357258732" ref="sorbetillos"/>
+    <file name="funda sorbetillos 2-u22190-fr4.jpg" crc="336251581" ref="sorbetillos"/>
+    <file name="caja sorbetillos-u22192-fr5.jpg" crc="2496480" ref="sorbetillos"/>
+    <file name="stand sorbetillos-u22191-fr4.jpg" crc="527676667" ref="sorbetillos"/>
+    <file name="sorbetillos 1-u22174-fr3.jpg" crc="4100632603" ref="sorbetillos"/>
+    <file name="funda sorbetillos 2-u22190-fr5.jpg" crc="4164927546" ref="sorbetillos"/>
+    <file name="caja sorbetillos-u22192-fr6.jpg" crc="3768642252" ref="sorbetillos"/>
+    <file name="stand sorbetillos-u22191-fr5.jpg" crc="116730358" ref="sorbetillos"/>
+    <file name="recurso 2376x300.png" crc="4211711215" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="pecados.png" crc="3948236494" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso pretty m.png" crc="20475085" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="10690339_290641214479855_6933302809595045022_n-crop-u23091.jpg" crc="64510964" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="caja pretty maquillaje.jpg" crc="3802987734" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="camiseta la sazon.jpg" crc="3843549031" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="etiqueta pretty maquillaje.jpg" crc="450228558" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="gorra la sazon.jpg" crc="4073556599" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="vaso pecados.jpg" crc="270647268" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa174x273.jpg" crc="4053819221" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="fotografia publicitaria tesalia376x266.jpg" crc="3906299412" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar197x273.jpg" crc="412164944" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso 2.png" crc="4211711215" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso pecados.png" crc="4253817270" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="10690339_290641214479855_6933302809595045022_n.jpg" crc="3796583524" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa-crop-u24228.jpg" crc="3817757305" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="fotografia publicitaria tesalia.jpg" crc="4219437349" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar-crop-u24383.jpg" crc="92344561" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="otros"/>
+    <file name="recurso 2263x210.png" crc="4211711215" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="pecados281x186.png" crc="3948236494" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso pretty m236x210.png" crc="3793356833" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="10690339_290641214479855_6933302809595045022_n210x210.jpg" crc="4200038085" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="caja pretty maquillaje281x194.jpg" crc="215048920" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="camiseta la sazon240x210.jpg" crc="496935431" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="etiqueta pretty maquillaje280x210.jpg" crc="3898342123" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="gorra la sazon281x188.jpg" crc="432682159" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="vaso pecados281x197.jpg" crc="4101460186" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa130x205.jpg" crc="327911989" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="fotografia publicitaria tesalia289x204.jpg" crc="378678589" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar148x205.jpg" crc="4261949794" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa-crop-u242282.jpg" crc="3817757305" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar-crop-u243832.jpg" crc="92344561" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso 2301x240.png" crc="4211711215" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="pecados323x214.png" crc="3948236494" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso pretty m269x240.png" crc="341910636" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="10690339_290641214479855_6933302809595045022_n240x240.jpg" crc="419118603" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="caja pretty maquillaje323x223.jpg" crc="3917741829" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="camiseta la sazon275x240.jpg" crc="4107420217" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="etiqueta pretty maquillaje320x240.jpg" crc="330604970" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="gorra la sazon323x216.jpg" crc="219080818" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="vaso pecados323x227.jpg" crc="71138634" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa153x240.jpg" crc="226023519" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="fotografia publicitaria tesalia323x229.jpg" crc="4003201822" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar173x240.jpg" crc="4238212025" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa-crop-u242283.jpg" crc="3817757305" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar-crop-u243833.jpg" crc="92344561" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso 2342x273.png" crc="4211711215" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="10690339_290641214479855_6933302809595045022_n273x273.jpg" crc="3796583524" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa-crop-u242284.jpg" crc="3817757305" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar-crop-u243834.jpg" crc="92344561" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso 2303x242.png" crc="4211711215" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="pecados346x229.png" crc="3948236494" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso pretty m271x242.png" crc="197331734" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="10690339_290641214479855_6933302809595045022_n242x242.jpg" crc="3796583524" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="caja pretty maquillaje346x239.jpg" crc="289245783" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="camiseta la sazon277x242.jpg" crc="86475464" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="etiqueta pretty maquillaje323x242.jpg" crc="4253824767" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="gorra la sazon346x231.jpg" crc="206423029" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="vaso pecados346x242.jpg" crc="4207804479" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa154x242.jpg" crc="11038268" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="fotografia publicitaria tesalia343x242.jpg" crc="361506076" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar175x242.jpg" crc="216497051" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa-crop-u242285.jpg" crc="3817757305" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar-crop-u243835.jpg" crc="92344561" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso 2273x219.png" crc="4211711215" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="pecados273x181.png" crc="3948236494" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="recurso pretty m254x226.png" crc="140934398" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="10690339_290641214479855_6933302809595045022_n226x226.jpg" crc="335665689" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="caja pretty maquillaje273x188.jpg" crc="3841959053" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="camiseta la sazon259x226.jpg" crc="162333956" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="etiqueta pretty maquillaje273x205.jpg" crc="3797387189" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="gorra la sazon273x182.jpg" crc="426734866" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="vaso pecados273x192.jpg" crc="4079797307" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa144x226.jpg" crc="399928358" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="fotografia publicitaria tesalia273x193.jpg" crc="3881999180" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar163x226.jpg" crc="209122206" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="cnt publicidad directa-crop-u242286.jpg" crc="3817757305" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+    <file name="sunny bienestar-crop-u243836.jpg" crc="92344561" seo="true" ref="otros">
+      <caption webpage="otros" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3760685775" seo="true" mt="1529643383833" redirect="true"/>
+  <file name="portafolio.html" crc="290709613" seo="true" mt="1529644233563" redirect="true"/>
+  <file name="sagadan.html" crc="4024437631" seo="true" mt="1529643678103" redirect="true"/>
+  <file name="provinciano.html" crc="86572826" seo="true" mt="1529643678103" redirect="true"/>
+  <file name="hotdrink.html" crc="423984562" seo="true" mt="1529643678103" redirect="true"/>
+  <file name="sorbetillos.html" crc="121168426" seo="true" mt="1529643678103" redirect="true"/>
+  <file name="otros.html" crc="517605640" seo="true" mt="1529643678103" redirect="true"/>
+</manifest>
